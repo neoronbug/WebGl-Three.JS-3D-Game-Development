@@ -2,6 +2,8 @@
 Using JavaScript library Three.js , 3D game was developed by me.
 
 ![Alt text](./Screenshot_6.png)
+![Alt text](./Screenshot_7.png)
+![Alt text](./aaaa.png)
 
 three.js
 ========
